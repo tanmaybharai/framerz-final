@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { Menu, X } from "lucide-react"
-import { color } from "framer-motion"
+// import { color } from "framer-motion"
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)

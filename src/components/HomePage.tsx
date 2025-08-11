@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import ExperienceSection from "./ExperienceSection";
 import ClientCommentsSection from "./ClientCommentsSection";
 import { useSmoothScroll } from "../hooks/use-smooth-scroll";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import ParticlesBackground from "./ParticlesBackground"
 
 
